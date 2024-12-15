@@ -1,0 +1,15 @@
+{
+  "name": "css-tree-open-props",
+  "version": "1.0.0",
+  "description": "A demonstration repo for css-tree with open-props parsing",
+  "author": "Owen Buckley <owen@thegreenhouse.io",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ."
+  },
+  "dependencies": {
+    "css-tree": "^3.1.0",
+    "open-props": "^1.7.8"
+  }
+}
